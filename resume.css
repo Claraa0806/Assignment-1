@@ -1,0 +1,33 @@
+body {
+    background-color: lightcyan;
+}
+div.cols1 {
+    float :left;
+    width: 49%;
+    min-width: 200px;
+    height: 500px;
+    border: solid 1px black;
+    display: block
+}
+div.cols2 {
+    float: right;
+    width: 49%;
+    min-width: 200px;
+    height: 500px;
+    border: solid 1px black;
+    display: block
+}
+img{
+    float: left;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+ul.s{
+    list-style-type: square;
+}
+ul.c{
+    list-style-type: circle;
+}
+div.script{
+    text-align: center;
+}
